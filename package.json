@@ -44,6 +44,7 @@
     "grunt-less": "^0.1.7",
     "grunt-notify": "^0.4.5",
     "grunt-text-replace": "^0.4",
+    "html-webpack-plugin": "^3.2.0",
     "less": "^3",
     "less-loader": "^5.0.0",
     "mini-css-extract-plugin": "^0.8.0",
