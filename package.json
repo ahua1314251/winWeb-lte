@@ -71,7 +71,7 @@
     "inputmask": "^3.3.7",
     "ion-rangeslider": "^2.3",
     "ionicons": "^3",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "scripts": {
     "build": "webpack --display-modules"
